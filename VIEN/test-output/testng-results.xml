@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="368293" started-at="2019-11-29T09:34:28Z" finished-at="2019-11-29T09:40:36Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="368293" started-at="2019-11-29T09:34:28Z" finished-at="2019-11-29T09:40:36Z">
+      <class name="com.vienna.qa.testcases.registration_Test">
+        <test-method status="PASS" signature="startup()[pri:0, instance:com.vienna.qa.testcases.registration_Test@1ed4004b]" name="startup" is-config="true" duration-ms="70220" started-at="2019-11-29T15:06:29Z" finished-at="2019-11-29T15:07:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startup -->
+        <test-method status="PASS" signature="registring_values()[pri:0, instance:com.vienna.qa.testcases.registration_Test@1ed4004b]" name="registring_values" duration-ms="154660" started-at="2019-11-29T15:07:39Z" finished-at="2019-11-29T15:10:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registring_values -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.vienna.qa.testcases.registration_Test@1ed4004b]" name="TearDown" is-config="true" duration-ms="0" started-at="2019-11-29T15:10:14Z" finished-at="2019-11-29T15:10:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- com.vienna.qa.testcases.registration_Test -->
+      <class name="com.vienna.qa.testcases.page1Test">
+        <test-method status="PASS" signature="startup()[pri:0, instance:com.vienna.qa.testcases.page1Test@4566e5bd]" name="startup" is-config="true" duration-ms="42314" started-at="2019-11-29T15:04:28Z" finished-at="2019-11-29T15:05:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startup -->
+        <test-method status="PASS" signature="Free30Days()[pri:0, instance:com.vienna.qa.testcases.page1Test@4566e5bd]" name="Free30Days" duration-ms="43274" started-at="2019-11-29T15:05:10Z" finished-at="2019-11-29T15:05:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Free30Days -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.vienna.qa.testcases.page1Test@4566e5bd]" name="TearDown" is-config="true" duration-ms="5952" started-at="2019-11-29T15:05:53Z" finished-at="2019-11-29T15:05:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="startup()[pri:0, instance:com.vienna.qa.testcases.page1Test@4566e5bd]" name="startup" is-config="true" duration-ms="27874" started-at="2019-11-29T15:05:59Z" finished-at="2019-11-29T15:06:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startup -->
+        <test-method status="PASS" signature="titleCheck()[pri:0, instance:com.vienna.qa.testcases.page1Test@4566e5bd]" name="titleCheck" duration-ms="16" started-at="2019-11-29T15:06:27Z" finished-at="2019-11-29T15:06:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titleCheck -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.vienna.qa.testcases.page1Test@4566e5bd]" name="TearDown" is-config="true" duration-ms="1528" started-at="2019-11-29T15:06:27Z" finished-at="2019-11-29T15:06:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="startup()[pri:0, instance:com.vienna.qa.testcases.page1Test@4566e5bd]" name="startup" is-config="true" duration-ms="20345" started-at="2019-11-29T15:10:14Z" finished-at="2019-11-29T15:10:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startup -->
+        <test-method status="PASS" signature="logoCheck()[pri:1, instance:com.vienna.qa.testcases.page1Test@4566e5bd]" name="logoCheck" duration-ms="430" started-at="2019-11-29T15:10:34Z" finished-at="2019-11-29T15:10:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoCheck -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.vienna.qa.testcases.page1Test@4566e5bd]" name="TearDown" is-config="true" duration-ms="1478" started-at="2019-11-29T15:10:35Z" finished-at="2019-11-29T15:10:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- com.vienna.qa.testcases.page1Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
